@@ -1,4 +1,4 @@
-# Simple Banking API
+# My Banking App
 ## Project Description
 This is a simple banking API that allows a customer to register and open a bank account that must be approved by designated bank employees. Customers can perform a series of transactions to bank accounts that have been approved. There is one sole bank admin that can view and edit all accounts.
 # Technologies Used
